@@ -6,7 +6,7 @@ categories: mcc
 ---
 ## Important Dates
 
-* **1 September 2016 (Thursday)**: Letter of invitations in [English][0] or [BM][1].
+* **1 September 2016 (Thursday)**: Letter of invitations in [English](https://drive.google.com/open?id=0BzHUizfmGp9_QlBKUW5ESk45OVU) or [BM][1].
 * **10-18 September 2016 (Saturday)**: [_9 Days of Code_][2], a basic programming tutorial for beginners (in Python); it is highly recommended to take this tutorial. In the meantime, [past year problems (MCC 2015)][3] and [Beginner's Guide][4] are available.
 * **23 September 2016 (Friday)**: Deadline for [registration][5].
 * **28 September 2016 (Wednesday)**: Deadline for [contestant info][6] registration. **All contestants** will need to submit this form.
@@ -110,7 +110,7 @@ Please read our [Frequently Asked Questions][16] prior to contacting us for any 
 Please direct all inquiries about MCC 2016 via email to `mcc [at] ioimalaysia [dot] org`.
 
 
-[0]: https://drive.google.com/open?id=0BzHUizfmGp9_QlBKUW5ESk45OVU
+
 [1]: https://drive.google.com/open?id=0BzHUizfmGp9_X1NGaDRMZ1dyZ00
 [2]: http://ioimalaysia.org/competitions/malaysian-computing-challenge/mcc-2016/9-days-of-code
 [3]: https://www.hackerrank.com/mcc-2015
